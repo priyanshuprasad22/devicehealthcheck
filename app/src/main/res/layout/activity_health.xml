@@ -19,7 +19,8 @@
             android:layout_height="40dp"
             android:orientation="horizontal"
             android:background="#0D403E3E"
-            android:padding="5dp">
+            android:padding="5dp"
+            android:id="@+id/btnCameraTest">
 
             <ImageView
                 android:layout_width="50dp"
